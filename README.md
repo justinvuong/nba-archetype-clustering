@@ -13,15 +13,15 @@ Using player performance data from the 2025 NBA season:
 ## How to Run
 
 1. **Clone the repo**
-    -git clone https://github.com/justinvuongg/nba-archetype-clustering.git
-    -cd nba-archetype-clustering
+    - `git clone https://github.com/justinvuongg/nba-archetype-clustering.git`
+    - `cd nba-archetype-clustering`
 2. **Create and activate virutal environment**
-    -python -m venv venv
-    -source venv/bin/activate (Mac/Linus) OR venv\Scripts\activate (windows)
+    - `python -m venv venv`
+    - `source venv/bin/activate (Mac/Linus) OR venv\Scripts\activate (windows)`
 3. **Install Dependencies**
-    -pip install -r requirements.txt
+    - `pip install -r requirements.txt`
 4. **Open the notebook**
-    -juypter notebook notebooks/nba_archetype_clustering.ipynb
+    - `juypter notebook notebooks/nba_archetype_clustering.ipynb`
 
 ---
 
